@@ -16,6 +16,6 @@ Para mais informações sobre funcionamento do programa e suas entradas veja o [
 Autores:
 --------
 
- * [@alexandregjr](github.com/alexandregjr)
- * [@EdPirro](github.com/EdPirro)
+ * [@alexandregjr](https://github.com/alexandregjr)
+ * [@EdPirro](https://github.com/EdPirro)
  * Fernando Fayet
